@@ -1,0 +1,3 @@
+*\2 * * * * python /app/banda.py >> /app/banda.txt
+*\2 * * * * python /app/contingencia.py >> /app/contingencia.txt
+*\2 * * * * python /app/ip.py >> /app/ip.txt
